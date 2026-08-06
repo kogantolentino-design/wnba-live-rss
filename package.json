@@ -1,0 +1,8 @@
+{
+  "name": "wnba-live-rss",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "rss": "^1.2.2"
+  }
+}
