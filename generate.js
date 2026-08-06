@@ -9,7 +9,7 @@ const data = await fetch(url).then(r => r.json());
 const feed = new RSS({
   title: "WNBA Live Scores",
   description: "Live WNBA Score Feed",
-  feed_url: "https://YOUR_GITHUB_USERNAME.github.io/wnba-live-rss/feed.xml",
+  feed_url: "feed_url: "https://kogantolentino-design.github.io/wnba-live-rss/feed.xml",,
   site_url: "https://www.wnba.com"
 });
 
