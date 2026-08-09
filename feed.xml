@@ -4,7 +4,7 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 19:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 19:56:41 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Las Vegas Aces 71 - 111 New York Liberty]]></title>
@@ -13,15 +13,15 @@
             <pubDate>Sun, 09 Aug 2026 16:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Phoenix Mercury 18 - 21 Washington Mystics]]></title>
-            <description><![CDATA[47.8 - 1st Quarter]]></description>
-            <guid isPermaLink="false">Phoenix Mercury 18 - 21 Washington Mystics</guid>
+            <title><![CDATA[Phoenix Mercury 37 - 50 Washington Mystics]]></title>
+            <description><![CDATA[Halftime]]></description>
+            <guid isPermaLink="false">Phoenix Mercury 37 - 50 Washington Mystics</guid>
             <pubDate>Sun, 09 Aug 2026 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dallas Wings 0 - 0 Minnesota Lynx]]></title>
-            <description><![CDATA[Sun, August 9th at 3:30 PM EDT]]></description>
-            <guid isPermaLink="false">Dallas Wings 0 - 0 Minnesota Lynx</guid>
+            <title><![CDATA[Dallas Wings 17 - 19 Minnesota Lynx]]></title>
+            <description><![CDATA[1:26 - 1st Quarter]]></description>
+            <guid isPermaLink="false">Dallas Wings 17 - 19 Minnesota Lynx</guid>
             <pubDate>Sun, 09 Aug 2026 19:30:00 GMT</pubDate>
         </item>
         <item>
