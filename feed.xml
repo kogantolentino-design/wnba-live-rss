@@ -4,12 +4,12 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 22:56:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 23:51:42 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Atlanta Dream 0 - 0 Connecticut Sun]]></title>
-            <description><![CDATA[Thu, August 13th at 7:00 PM EDT]]></description>
-            <guid isPermaLink="false">Atlanta Dream 0 - 0 Connecticut Sun</guid>
+            <title><![CDATA[Atlanta Dream 41 - 27 Connecticut Sun]]></title>
+            <description><![CDATA[2:30 - 2nd Quarter]]></description>
+            <guid isPermaLink="false">Atlanta Dream 41 - 27 Connecticut Sun</guid>
             <pubDate>Thu, 13 Aug 2026 23:00:00 GMT</pubDate>
         </item>
         <item>
