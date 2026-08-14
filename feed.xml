@@ -4,7 +4,7 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 10:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 11:30:30 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Atlanta Dream 104 - 69 Connecticut Sun]]></title>
