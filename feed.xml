@@ -4,18 +4,18 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 21:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 21:52:23 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Chicago Sky 28 - 17 Seattle Storm]]></title>
-            <description><![CDATA[6:48 - 2nd Quarter]]></description>
-            <guid isPermaLink="false">Chicago Sky 28 - 17 Seattle Storm</guid>
+            <title><![CDATA[Chicago Sky 46 - 29 Seattle Storm]]></title>
+            <description><![CDATA[Halftime]]></description>
+            <guid isPermaLink="false">Chicago Sky 46 - 29 Seattle Storm</guid>
             <pubDate>Sun, 16 Aug 2026 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Indiana Fever 26 - 25 Atlanta Dream]]></title>
-            <description><![CDATA[8:34 - 2nd Quarter]]></description>
-            <guid isPermaLink="false">Indiana Fever 26 - 25 Atlanta Dream</guid>
+            <title><![CDATA[Indiana Fever 40 - 42 Atlanta Dream]]></title>
+            <description><![CDATA[26.4 - 2nd Quarter]]></description>
+            <guid isPermaLink="false">Indiana Fever 40 - 42 Atlanta Dream</guid>
             <pubDate>Sun, 16 Aug 2026 21:00:00 GMT</pubDate>
         </item>
         <item>
