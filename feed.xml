@@ -4,7 +4,7 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 23:52:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 01:15:58 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Chicago Sky 82 - 80 Seattle Storm]]></title>
@@ -19,9 +19,9 @@
             <pubDate>Sun, 16 Aug 2026 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Portland Fire 34 - 35 Phoenix Mercury]]></title>
-            <description><![CDATA[2:54 - 2nd Quarter]]></description>
-            <guid isPermaLink="false">Portland Fire 34 - 35 Phoenix Mercury</guid>
+            <title><![CDATA[Portland Fire 84 - 82 Phoenix Mercury]]></title>
+            <description><![CDATA[20.3 - 4th Quarter]]></description>
+            <guid isPermaLink="false">Portland Fire 84 - 82 Phoenix Mercury</guid>
             <pubDate>Sun, 16 Aug 2026 23:00:00 GMT</pubDate>
         </item>
     </channel>
