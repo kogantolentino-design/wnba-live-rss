@@ -4,13 +4,31 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 14:53:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 15:34:53 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Dallas Wings 70 - 78 Golden State Valkyries]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Dallas Wings 70 - 78 Golden State Valkyries</guid>
-            <pubDate>Tue, 18 Aug 2026 02:00:00 GMT</pubDate>
+            <title><![CDATA[Los Angeles Sparks 0 - 0 Connecticut Sun]]></title>
+            <description><![CDATA[Tue, August 18th at 7:00 PM EDT]]></description>
+            <guid isPermaLink="false">Los Angeles Sparks 0 - 0 Connecticut Sun</guid>
+            <pubDate>Tue, 18 Aug 2026 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indiana Fever 0 - 0 Toronto Tempo]]></title>
+            <description><![CDATA[Tue, August 18th at 7:00 PM EDT]]></description>
+            <guid isPermaLink="false">Indiana Fever 0 - 0 Toronto Tempo</guid>
+            <pubDate>Tue, 18 Aug 2026 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New York Liberty 0 - 0 Chicago Sky]]></title>
+            <description><![CDATA[Tue, August 18th at 9:00 PM EDT]]></description>
+            <guid isPermaLink="false">New York Liberty 0 - 0 Chicago Sky</guid>
+            <pubDate>Wed, 19 Aug 2026 01:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Atlanta Dream 0 - 0 Las Vegas Aces]]></title>
+            <description><![CDATA[Tue, August 18th at 9:00 PM EDT]]></description>
+            <guid isPermaLink="false">Atlanta Dream 0 - 0 Las Vegas Aces</guid>
+            <pubDate>Wed, 19 Aug 2026 01:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
