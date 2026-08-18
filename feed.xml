@@ -4,18 +4,18 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 22:57:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 23:30:48 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Los Angeles Sparks 0 - 0 Connecticut Sun]]></title>
-            <description><![CDATA[Tue, August 18th at 7:00 PM EDT]]></description>
-            <guid isPermaLink="false">Los Angeles Sparks 0 - 0 Connecticut Sun</guid>
+            <title><![CDATA[Los Angeles Sparks 23 - 32 Connecticut Sun]]></title>
+            <description><![CDATA[7:11 - 2nd Quarter]]></description>
+            <guid isPermaLink="false">Los Angeles Sparks 23 - 32 Connecticut Sun</guid>
             <pubDate>Tue, 18 Aug 2026 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Indiana Fever 0 - 0 Toronto Tempo]]></title>
-            <description><![CDATA[Tue, August 18th at 7:00 PM EDT]]></description>
-            <guid isPermaLink="false">Indiana Fever 0 - 0 Toronto Tempo</guid>
+            <title><![CDATA[Indiana Fever 35 - 25 Toronto Tempo]]></title>
+            <description><![CDATA[9:25 - 2nd Quarter]]></description>
+            <guid isPermaLink="false">Indiana Fever 35 - 25 Toronto Tempo</guid>
             <pubDate>Tue, 18 Aug 2026 23:00:00 GMT</pubDate>
         </item>
         <item>
