@@ -4,25 +4,25 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 14:53:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 15:25:06 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Minnesota Lynx 94 - 84 Washington Mystics]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Minnesota Lynx 94 - 84 Washington Mystics</guid>
-            <pubDate>Fri, 21 Aug 2026 23:30:00 GMT</pubDate>
+            <title><![CDATA[Indiana Fever 0 - 0 New York Liberty]]></title>
+            <description><![CDATA[Sat, August 22nd at 7:00 PM EDT]]></description>
+            <guid isPermaLink="false">Indiana Fever 0 - 0 New York Liberty</guid>
+            <pubDate>Sat, 22 Aug 2026 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Golden State Valkyries 70 - 73 Chicago Sky]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Golden State Valkyries 70 - 73 Chicago Sky</guid>
-            <pubDate>Fri, 21 Aug 2026 23:30:00 GMT</pubDate>
+            <title><![CDATA[Connecticut Sun 0 - 0 Los Angeles Sparks]]></title>
+            <description><![CDATA[Sat, August 22nd at 9:00 PM EDT]]></description>
+            <guid isPermaLink="false">Connecticut Sun 0 - 0 Los Angeles Sparks</guid>
+            <pubDate>Sun, 23 Aug 2026 01:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Portland Fire 79 - 82 Toronto Tempo]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Portland Fire 79 - 82 Toronto Tempo</guid>
-            <pubDate>Sat, 22 Aug 2026 02:00:00 GMT</pubDate>
+            <title><![CDATA[Atlanta Dream 0 - 0 Phoenix Mercury]]></title>
+            <description><![CDATA[Sat, August 22nd at 10:00 PM EDT]]></description>
+            <guid isPermaLink="false">Atlanta Dream 0 - 0 Phoenix Mercury</guid>
+            <pubDate>Sun, 23 Aug 2026 02:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
