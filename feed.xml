@@ -4,12 +4,12 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 22:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 23:10:51 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Chicago Sky 0 - 0 Connecticut Sun]]></title>
-            <description><![CDATA[Tue, August 25th at 7:00 PM EDT]]></description>
-            <guid isPermaLink="false">Chicago Sky 0 - 0 Connecticut Sun</guid>
+            <title><![CDATA[Chicago Sky 6 - 6 Connecticut Sun]]></title>
+            <description><![CDATA[6:09 - 1st Quarter]]></description>
+            <guid isPermaLink="false">Chicago Sky 6 - 6 Connecticut Sun</guid>
             <pubDate>Tue, 25 Aug 2026 23:00:00 GMT</pubDate>
         </item>
         <item>
