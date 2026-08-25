@@ -4,19 +4,25 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 15:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 15:56:59 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Golden State Valkyries 80 - 66 Minnesota Lynx]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Golden State Valkyries 80 - 66 Minnesota Lynx</guid>
-            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Chicago Sky 0 - 0 Connecticut Sun]]></title>
+            <description><![CDATA[Tue, August 25th at 7:00 PM EDT]]></description>
+            <guid isPermaLink="false">Chicago Sky 0 - 0 Connecticut Sun</guid>
+            <pubDate>Tue, 25 Aug 2026 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Atlanta Dream 78 - 71 Los Angeles Sparks]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Atlanta Dream 78 - 71 Los Angeles Sparks</guid>
-            <pubDate>Tue, 25 Aug 2026 02:00:00 GMT</pubDate>
+            <title><![CDATA[Portland Fire 0 - 0 Dallas Wings]]></title>
+            <description><![CDATA[Tue, August 25th at 8:00 PM EDT]]></description>
+            <guid isPermaLink="false">Portland Fire 0 - 0 Dallas Wings</guid>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Washington Mystics 0 - 0 Phoenix Mercury]]></title>
+            <description><![CDATA[Tue, August 25th at 10:00 PM EDT]]></description>
+            <guid isPermaLink="false">Washington Mystics 0 - 0 Phoenix Mercury</guid>
+            <pubDate>Wed, 26 Aug 2026 02:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
