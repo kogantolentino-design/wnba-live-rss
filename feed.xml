@@ -4,18 +4,18 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Aug 2026 23:57:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 11:13:45 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Golden State Valkyries 0 - 0 New York Liberty]]></title>
-            <description><![CDATA[Thu, August 27th at 8:00 PM EDT]]></description>
-            <guid isPermaLink="false">Golden State Valkyries 0 - 0 New York Liberty</guid>
+            <title><![CDATA[Golden State Valkyries 79 - 60 New York Liberty]]></title>
+            <description><![CDATA[Final]]></description>
+            <guid isPermaLink="false">Golden State Valkyries 79 - 60 New York Liberty</guid>
             <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Washington Mystics 0 - 0 Phoenix Mercury]]></title>
-            <description><![CDATA[Thu, August 27th at 10:00 PM EDT]]></description>
-            <guid isPermaLink="false">Washington Mystics 0 - 0 Phoenix Mercury</guid>
+            <title><![CDATA[Washington Mystics 80 - 73 Phoenix Mercury]]></title>
+            <description><![CDATA[Final]]></description>
+            <guid isPermaLink="false">Washington Mystics 80 - 73 Phoenix Mercury</guid>
             <pubDate>Fri, 28 Aug 2026 02:00:00 GMT</pubDate>
         </item>
     </channel>
