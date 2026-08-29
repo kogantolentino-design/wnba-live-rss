@@ -4,31 +4,19 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Aug 2026 15:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 18:31:28 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Portland Fire 101 - 83 Atlanta Dream]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Portland Fire 101 - 83 Atlanta Dream</guid>
-            <pubDate>Fri, 28 Aug 2026 23:30:00 GMT</pubDate>
+            <title><![CDATA[Chicago Sky 40 - 58 New York Liberty]]></title>
+            <description><![CDATA[2:07 - 3rd Quarter]]></description>
+            <guid isPermaLink="false">Chicago Sky 40 - 58 New York Liberty</guid>
+            <pubDate>Sat, 29 Aug 2026 17:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Connecticut Sun 91 - 111 Indiana Fever]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Connecticut Sun 91 - 111 Indiana Fever</guid>
-            <pubDate>Fri, 28 Aug 2026 23:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Toronto Tempo 73 - 93 Las Vegas Aces]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Toronto Tempo 73 - 93 Las Vegas Aces</guid>
-            <pubDate>Sat, 29 Aug 2026 02:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Washington Mystics 82 - 88 Los Angeles Sparks]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Washington Mystics 82 - 88 Los Angeles Sparks</guid>
-            <pubDate>Sat, 29 Aug 2026 02:00:00 GMT</pubDate>
+            <title><![CDATA[Toronto Tempo 0 - 0 Phoenix Mercury]]></title>
+            <description><![CDATA[Sat, August 29th at 10:00 PM EDT]]></description>
+            <guid isPermaLink="false">Toronto Tempo 0 - 0 Phoenix Mercury</guid>
+            <pubDate>Sun, 30 Aug 2026 02:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
