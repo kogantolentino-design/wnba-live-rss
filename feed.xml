@@ -4,7 +4,7 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Aug 2026 01:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 07:19:47 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Chicago Sky 66 - 85 New York Liberty]]></title>
@@ -13,9 +13,9 @@
             <pubDate>Sat, 29 Aug 2026 17:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Toronto Tempo 0 - 0 Phoenix Mercury]]></title>
-            <description><![CDATA[Sat, August 29th at 10:00 PM EDT]]></description>
-            <guid isPermaLink="false">Toronto Tempo 0 - 0 Phoenix Mercury</guid>
+            <title><![CDATA[Toronto Tempo 69 - 101 Phoenix Mercury]]></title>
+            <description><![CDATA[Final]]></description>
+            <guid isPermaLink="false">Toronto Tempo 69 - 101 Phoenix Mercury</guid>
             <pubDate>Sun, 30 Aug 2026 02:00:00 GMT</pubDate>
         </item>
     </channel>
