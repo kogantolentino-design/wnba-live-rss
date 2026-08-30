@@ -4,18 +4,18 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Aug 2026 19:59:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 22:41:18 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Minnesota Lynx 41 - 52 Atlanta Dream]]></title>
-            <description><![CDATA[Halftime]]></description>
-            <guid isPermaLink="false">Minnesota Lynx 41 - 52 Atlanta Dream</guid>
+            <title><![CDATA[Minnesota Lynx 81 - 89 Atlanta Dream]]></title>
+            <description><![CDATA[Final]]></description>
+            <guid isPermaLink="false">Minnesota Lynx 81 - 89 Atlanta Dream</guid>
             <pubDate>Sun, 30 Aug 2026 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Los Angeles Sparks 0 - 0 Seattle Storm]]></title>
-            <description><![CDATA[Sun, August 30th at 5:00 PM EDT]]></description>
-            <guid isPermaLink="false">Los Angeles Sparks 0 - 0 Seattle Storm</guid>
+            <title><![CDATA[Los Angeles Sparks 78 - 65 Seattle Storm]]></title>
+            <description><![CDATA[5:22 - 4th Quarter]]></description>
+            <guid isPermaLink="false">Los Angeles Sparks 78 - 65 Seattle Storm</guid>
             <pubDate>Sun, 30 Aug 2026 21:00:00 GMT</pubDate>
         </item>
         <item>
