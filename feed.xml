@@ -4,37 +4,19 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Sep 2026 14:06:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 19:27:23 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Minnesota Lynx 101 - 89 Connecticut Sun]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Minnesota Lynx 101 - 89 Connecticut Sun</guid>
-            <pubDate>Sun, 20 Sep 2026 17:00:00 GMT</pubDate>
+            <title><![CDATA[Atlanta Dream 0 - 0 New York Liberty]]></title>
+            <description><![CDATA[Mon, September 21st at 8:00 PM EDT]]></description>
+            <guid isPermaLink="false">Atlanta Dream 0 - 0 New York Liberty</guid>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New York Liberty 106 - 69 Toronto Tempo]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">New York Liberty 106 - 69 Toronto Tempo</guid>
-            <pubDate>Sun, 20 Sep 2026 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Washington Mystics 93 - 77 Indiana Fever]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Washington Mystics 93 - 77 Indiana Fever</guid>
-            <pubDate>Sun, 20 Sep 2026 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portland Fire 84 - 105 Los Angeles Sparks]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Portland Fire 84 - 105 Los Angeles Sparks</guid>
-            <pubDate>Sun, 20 Sep 2026 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seattle Storm 77 - 98 Las Vegas Aces]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Seattle Storm 77 - 98 Las Vegas Aces</guid>
-            <pubDate>Mon, 21 Sep 2026 01:00:00 GMT</pubDate>
+            <title><![CDATA[Dallas Wings 0 - 0 Phoenix Mercury]]></title>
+            <description><![CDATA[Mon, September 21st at 10:00 PM EDT]]></description>
+            <guid isPermaLink="false">Dallas Wings 0 - 0 Phoenix Mercury</guid>
+            <pubDate>Tue, 22 Sep 2026 02:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
