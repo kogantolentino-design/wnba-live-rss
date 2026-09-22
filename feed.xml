@@ -4,18 +4,18 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Sep 2026 01:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 06:22:20 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Atlanta Dream 41 - 38 New York Liberty]]></title>
-            <description><![CDATA[Halftime]]></description>
-            <guid isPermaLink="false">Atlanta Dream 41 - 38 New York Liberty</guid>
+            <title><![CDATA[Atlanta Dream 95 - 84 New York Liberty]]></title>
+            <description><![CDATA[Final]]></description>
+            <guid isPermaLink="false">Atlanta Dream 95 - 84 New York Liberty</guid>
             <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dallas Wings 0 - 0 Phoenix Mercury]]></title>
-            <description><![CDATA[Mon, September 21st at 10:00 PM EDT]]></description>
-            <guid isPermaLink="false">Dallas Wings 0 - 0 Phoenix Mercury</guid>
+            <title><![CDATA[Dallas Wings 86 - 87 Phoenix Mercury]]></title>
+            <description><![CDATA[Final]]></description>
+            <guid isPermaLink="false">Dallas Wings 86 - 87 Phoenix Mercury</guid>
             <pubDate>Tue, 22 Sep 2026 02:00:00 GMT</pubDate>
         </item>
     </channel>
