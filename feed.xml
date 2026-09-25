@@ -4,37 +4,31 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Sep 2026 11:45:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 15:57:36 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Toronto Tempo 81 - 95 Connecticut Sun]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Toronto Tempo 81 - 95 Connecticut Sun</guid>
-            <pubDate>Thu, 24 Sep 2026 23:00:00 GMT</pubDate>
+            <title><![CDATA[New York Liberty 0 - 0 Minnesota Lynx]]></title>
+            <description><![CDATA[Sun, September 27th at 2:00 PM EDT]]></description>
+            <guid isPermaLink="false">New York Liberty 0 - 0 Minnesota Lynx</guid>
+            <pubDate>Sun, 27 Sep 2026 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chicago Sky 93 - 101 Washington Mystics]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Chicago Sky 93 - 101 Washington Mystics</guid>
-            <pubDate>Thu, 24 Sep 2026 23:30:00 GMT</pubDate>
+            <title><![CDATA[Indiana Fever 0 - 0 Las Vegas Aces]]></title>
+            <description><![CDATA[Sun, September 27th at 4:00 PM EDT]]></description>
+            <guid isPermaLink="false">Indiana Fever 0 - 0 Las Vegas Aces</guid>
+            <pubDate>Sun, 27 Sep 2026 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Indiana Fever 66 - 86 Minnesota Lynx]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Indiana Fever 66 - 86 Minnesota Lynx</guid>
-            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Washington Mystics 0 - 0 Atlanta Dream]]></title>
+            <description><![CDATA[Sun, September 27th at 7:00 PM EDT]]></description>
+            <guid isPermaLink="false">Washington Mystics 0 - 0 Atlanta Dream</guid>
+            <pubDate>Sun, 27 Sep 2026 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Golden State Valkyries 76 - 75 Los Angeles Sparks]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Golden State Valkyries 76 - 75 Los Angeles Sparks</guid>
-            <pubDate>Fri, 25 Sep 2026 02:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Las Vegas Aces 100 - 82 Phoenix Mercury]]></title>
-            <description><![CDATA[Final]]></description>
-            <guid isPermaLink="false">Las Vegas Aces 100 - 82 Phoenix Mercury</guid>
-            <pubDate>Fri, 25 Sep 2026 02:00:00 GMT</pubDate>
+            <title><![CDATA[Dallas Wings 0 - 0 Golden State Valkyries]]></title>
+            <description><![CDATA[Sun, September 27th at 9:00 PM EDT]]></description>
+            <guid isPermaLink="false">Dallas Wings 0 - 0 Golden State Valkyries</guid>
+            <pubDate>Mon, 28 Sep 2026 01:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
