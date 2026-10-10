@@ -4,7 +4,7 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Oct 2026 02:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 09:03:31 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Atlanta Dream 85 - 83 New York Liberty]]></title>
@@ -13,9 +13,9 @@
             <pubDate>Fri, 09 Oct 2026 23:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Golden State Valkyries 36 - 45 Las Vegas Aces]]></title>
-            <description><![CDATA[Halftime]]></description>
-            <guid isPermaLink="false">Golden State Valkyries 36 - 45 Las Vegas Aces</guid>
+            <title><![CDATA[Golden State Valkyries 87 - 77 Las Vegas Aces]]></title>
+            <description><![CDATA[Final/OT]]></description>
+            <guid isPermaLink="false">Golden State Valkyries 87 - 77 Las Vegas Aces</guid>
             <pubDate>Sat, 10 Oct 2026 01:30:00 GMT</pubDate>
         </item>
     </channel>
