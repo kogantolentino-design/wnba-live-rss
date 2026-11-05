@@ -4,7 +4,7 @@
         <description><![CDATA[Live WNBA Score Feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Nov 2026 23:57:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 06:29:01 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Atlanta Dream 63 - 68 Golden State Valkyries]]></title>
